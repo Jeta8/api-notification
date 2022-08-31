@@ -1,0 +1,18 @@
+{
+    "Notificacoes": [
+      {
+        "ID": "Teste",
+        "Titulo": "Notificação 1",
+        "Data": "20/07/2022",
+        "Url": "http://localhost/teste.html",
+        "NotificarWindows": 1
+      },
+      {
+        "ID": "Teste 2",
+        "Titulo": "Notificação 2",
+        "Data": "19/07/2022",
+        "Url": "http://localhost/teste2.html",
+        "NotificarWindows": 0
+      }
+    ]
+  }
